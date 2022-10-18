@@ -14,5 +14,5 @@
 
 📫 Social Media
 -
-- Discord: DqrkEvil#5456 (ID: 515644325997183014)
-- YouTube: https://www.youtube.com/channel/UCvsC7IngpOOZwfQjSJ1-OEA
+- Discord: [DqrkEvil#5456](https://discord.com/users/515644325997183014/) (ID: ```515644325997183014```)
+- YouTube: [DqrkEvil](https://www.youtube.com/channel/UCvsC7IngpOOZwfQjSJ1-OEA)
