@@ -1,16 +1,19 @@
-### Hi there 👋
+👋 I’m @DqrkEvil, a guy trying to learn more about computers.
 
-<!--
-**DqrkEvil/DqrkEvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in 
+-
+- Software
+- Video Games 
+- Tennis
+- Video and Photo Editing
 
-Here are some ideas to get you started:
+🌱 I’m currently learning
+-
+- Python
+- C++
+- Game hacking
+- Reverse Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Social Media
+-
+- Discord: [dqrkevil](https://discord.com/users/515644325997183014/) (ID: ```515644325997183014```)
