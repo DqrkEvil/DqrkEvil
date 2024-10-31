@@ -11,8 +11,10 @@
 -
 - Python
 - C++
-- Game hacking
+- C#
 - Reverse Engineering
+- Web Development
+
 
 📫 Social Media
 -
