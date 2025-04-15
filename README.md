@@ -6,15 +6,24 @@
 - Video Games 
 - Tennis
 - Video and Photo Editing
+- Enjoying Nature
 
-🌱 I’m currently learning
+🌱 I have experience in
 -
 - Python
-- C++
+- C / C++
 - C#
+- Rust
 - Reverse Engineering
+  - x86
+  - x64
+  - Java
+  - C# / .NET
 - Web Development
-
+  - HTML + CSS
+  - SASS / SCSS
+  - Bootstrap
+  - PostgreSQL
 
 📫 Social Media
 -
